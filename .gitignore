@@ -1,2 +1,5 @@
 school_budget_train.csv
 budget_test.csv
+budget_df_cleaned.csv
+tfidf.csv
+*.csv

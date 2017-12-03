@@ -3,15 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer, HashingVectorizer
-from textblob import TextBlob
-import re
-from nltk.corpus import stopwords
-from spacy.en import English
-from nltk.stem.porter import PorterStemmer
-import nltk
-from nltk.corpus import stopwords
-from spacy.en import STOP_WORDS
-nlp = English()
 
 
 targets = ['Function', 'Use', 'Sharing', 'Reporting', 'Student_Type',

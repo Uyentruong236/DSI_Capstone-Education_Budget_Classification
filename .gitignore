@@ -1,6 +1,6 @@
 school_budget_train.csv
 budget_test.csv
 budget_df_cleaned1.csv
-tfidf.csv
+budget_test_clean.csv
 *.csv
 budget_df_cleaned2.csv

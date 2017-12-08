@@ -4,3 +4,5 @@ budget_df_cleaned1.csv
 budget_test_clean.csv
 *.csv
 budget_df_cleaned2.csv
+Ops_status_model.pkl
+

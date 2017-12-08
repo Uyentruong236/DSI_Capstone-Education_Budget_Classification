@@ -12,3 +12,4 @@ word_predictors = ['Object_Description','Text_2','SubFund_Description','Job_Titl
 
 num_predictors = ['FTE', 'Total']
 
+predictors = ['Object_Description','Text_2','SubFund_Description','Job_Title_Description','Text_3','Text_4',      'Sub_Object_Description','Location_Description','Function_Description','Facility_or_Department','Position_Extra','Program_Description','Fund_Description','Text_1', 'FTE', 'Total']

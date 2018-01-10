@@ -30,7 +30,7 @@ In the ipynb folder, start with **Capstone_Project_Report.ipynb** - This report 
     - Model blending.
     
 **Submission Results**
-As of January, 2018 my lowest submission score puts me in 13th place out of 324 competitors in the competition. I'm continuing to explore other methods as well as fine tuning my current models to achieve lower submission scores.
+As of January, 2018 my lowest submission score puts me in **13th place out of 324 competitors** in the competition. I'm continuing to explore other methods as well as fine tuning my current models to achieve lower submission scores.
 
 ![](../Capstone/ipynb/scratch_work/rank.png)
 

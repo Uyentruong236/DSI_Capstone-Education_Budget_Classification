@@ -20,10 +20,10 @@ Your task is a multi-class-multi-label classification problem with the goal of a
 
 **Content:**
 
-In the ipynb folder, start with **Capstone_Project_Report.ipynb** - This report describes the process and results of the the technical process and codes I used to build my models and generate predictions. The report includes the following sections:
+In the ipynb folder, start with **Capstone_Project_Report.ipynb** - This report describes the process and results of the codes I used to build my models and generate predictions. The report includes the following sections:
 
-- EDA and data preprocessing of the datasets which included using NLP library and regex to clean the data,
-- Baseline model pipeline'
+- EDA and data preprocessing of the datasets which included using the NLP library and regex to cleandata,
+- Baseline model pipeline, 
 - Process for experimenting with different types of models to improve scores which includes:
     - Model hyper-parameter tuning with Gridsearch,
     - Boosting method with XGB,
